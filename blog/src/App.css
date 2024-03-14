@@ -1,0 +1,38 @@
+body {
+  margin: unset;
+  text-align: center;
+}
+
+h4, p {
+  margin: unset;
+}
+
+.black-nav {
+  display: flex;
+  background: black;
+  color: white;
+  padding: 20px;
+}
+
+div{
+  box-sizing: border-box;
+}
+
+.list{
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid grey;
+}
+
+button{
+  border: unset;
+  background: unset;
+  padding: unset;
+}
+
+.modal{
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #eee;
+  text-align: left;
+}
